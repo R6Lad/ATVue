@@ -1,0 +1,72 @@
+{
+	"Test" : "Hello",
+	
+	"rides" : [
+		{
+			"id" : 1,
+			"Title" : "Ride one - nem",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"video" : "/nemesis.mp4",
+			"Summary" : "Summary about ride",
+			"facts" : {
+				"length" : 716,
+				"speed" : 80.5,
+				"inversions" : 4,
+				"duration" : 80
+			}
+		},
+		{
+			"id" : 2,
+			"Title" : "Ride two - Oblivion",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"Summary" : "Summary about ride",
+			"facts" : {
+				"length" : 372,
+				"speed" : 109,
+				"inversions" : 0,
+				"duration" : 75,
+				"drop" : 55
+			}
+		},
+		{
+			"id" : 3,
+			"Title" : "Ride three",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"Summary" : "Summary about ride"
+		},
+		{
+			"id" : 4,
+			"Title" : "Ride four",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"Summary" : "Summary about ride"
+		},
+		{
+			"id" : 5,
+			"Title" : "Ride five",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"Summary" : "Summary about ride"
+		},
+		{
+			"id" : 6,
+			"Title" : "Ride six",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"Summary" : "Summary about ride"
+		},
+		{
+			"id" : 7,
+			"Title" : "Ride seven",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"Summary" : "Summary about ride"
+		},
+		{
+			"id" : 8,
+			"Title" : "Ride eight",
+			"Image" : "https://via.placeholder.com/400x400.png",
+			"Summary" : "Summary about ride"
+		}
+	],
+	"location" : {
+		"lat" : "52.987662716",
+		"lng" : "-1.888829778"
+	}
+}
